@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tomuta Gaby
+- 👋 Hi, I’m Tomuta Gabriel
 - 👀 I’m interested in almost anything related to programming.
 - 🌱 I’m currently learning to use my skill to solve problems in order for the overall efficiency of the program to increase.
 - 💞️ I’m looking to collaborate on anything interesting.
