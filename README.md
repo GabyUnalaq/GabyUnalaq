@@ -28,6 +28,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
+<img src="https://avatars.githubusercontent.com/u/3979232?s=280&v=4" title="ROS2" alt="ROS2" width="40" height="40"/>&nbsp;
 </p>
 
 ---
