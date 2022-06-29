@@ -6,7 +6,7 @@
 - 👀 I’m interested in almost anything related to programming.
 - 🌱 I’m currently learning to use my skill to solve problems in order for the overall efficiency of the program to increase.
 - 💞️ I’m looking to collaborate on anything interesting.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-gabyunalaq-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabyunalaq)
+- 📫 How to reach me: &nbsp; [![Linkedin](https://img.shields.io/badge/-gabyunalaq-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabyunalaq) [![Rovis Laboratory](https://img.shields.io/badge/RovisLab-Tomuta%20Gabriel-red)](https://www.rovislab.com/tomuta_gabriel.html)
 
 ---
 
