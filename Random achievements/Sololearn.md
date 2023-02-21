@@ -1,4 +1,4 @@
-# Sololearn
+# Sololearn <img src="https://blob.sololearn.com/avatars/sololearn.png"  width="4%" height="4%">
 Sololearn is an app that offers a variety of ways to start and advance in the field of programming, with a great community, competitive challenges, many problems and additional lessons made by the users including Cryptography, Python NumPy, Design Patterns, Git and more.
 
 The languages that you can find in here are: C, C#, C++, Java, Python, Javascript, SQL, HTML, CSS, PHP, Sqift 4, jQuery, Ruby, react + Redux, Web Design, Angular + NestJS, Kotlin and more
