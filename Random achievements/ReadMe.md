@@ -17,7 +17,7 @@ Join me in a Kumite. My profile:
 [<img src="https://www.codewars.com/users/GabyUnalaq/badges/large">](https://www.codewars.com/users/GabyUnalaq)
 
 
-## Udemy <img src="https://logos-world.net/wp-content/uploads/2021/11/Udemy-Logo.png"  width="3%" height="3%">
+## Udemy <img src="https://companieslogo.com/img/orig/UDMY.D-ad1cfee4.png"  width="2%" height="2%">
 This website has courses for everything known to man. No more introduction needed. 
 
 More info, you can find [here](Udemy.md).
