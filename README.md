@@ -34,7 +34,7 @@
 
 ---
 
-### :chart_with_upwards_trend: My Stats :
+### My Stats :
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GabyUnalaq&show_icons=true&theme=city_lights)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabyUnalaq&layout=compact&theme=city_lights)
