@@ -1,6 +1,6 @@
 
 
-### :pushpin: &nbsp;About Me :
+### 📌 &nbsp;About Me :
 
 - 👋 Hi, I’m Tomuta Gabriel <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and I'm from Romania.
 - 👀 I’m interested in almost anything related to programming.
@@ -34,7 +34,7 @@
 
 ---
 
-### My Stats :
+### 📈 My Stats :
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GabyUnalaq&show_icons=true&theme=city_lights)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabyUnalaq&layout=compact&theme=city_lights)
