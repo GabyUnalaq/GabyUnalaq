@@ -1,4 +1,4 @@
-# Udemy <img src="https://companieslogo.com/img/orig/UDMY.D-ad1cfee4.png"  width="2%" height="2%">
+# Udemy <img src="https://companieslogo.com/img/orig/UDMY.D-ad1cfee4.png"  width="1.5%" height="1.5%">
 You can find Udemy on [here](https://www.udemy.com/).
 
 ## Certificates
