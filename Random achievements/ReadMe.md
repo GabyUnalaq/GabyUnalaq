@@ -17,11 +17,16 @@ Join me in a Kumite. My profile:
 [<img src="https://www.codewars.com/users/GabyUnalaq/badges/large">](https://www.codewars.com/users/GabyUnalaq)
 
 
-## Udemy <img src="https://companieslogo.com/img/orig/UDMY.D-ad1cfee4.png"  width="2%" height="2%">
+## Udemy <img src="https://companieslogo.com/img/orig/UDMY.D-ad1cfee4.png"  width="1.5%" height="1.5%">
 This website has courses for everything known to man. No more introduction needed. 
 
 More info, you can find [here](Udemy.md).
 
+
+## HackerRank <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png"  width="4%" height="4%">
+This website represents a tech skills platform that offers exercises, challenges and certificates in different programming languages. Its description speaks for itself: "Skills speak louder than words".
+
+More info, you can find [here](HackerRank.md).
 
 
 ## - To be continued -
